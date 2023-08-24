@@ -1,5 +1,3 @@
-Chapter 3: Current State of AI in Healthcare
-============================================
 
 Artificial intelligence (AI) is already transforming the healthcare industry, with a range of applications being used today. From predictive analytics to robotic surgery, AI is being used to improve patient outcomes, streamline healthcare delivery, and support personalized medicine. In this chapter, we will explore the current state of AI in healthcare, including examples of AI applications and trends in AI adoption.
 

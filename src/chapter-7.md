@@ -1,5 +1,3 @@
-Chapter 7: Case Studies of AI in Healthcare
-===========================================
 
 The integration of artificial intelligence (AI) in healthcare has the potential to revolutionize the industry and improve patient outcomes. The following are some case studies highlighting successful implementations of AI in different medical fields:
 

@@ -1,5 +1,3 @@
-Overview of the Future of Healthcare and AI
-====================================================================
 
 In this chapter, we will provide an overview of how artificial intelligence (AI) is transforming healthcare and what the future of healthcare might look like with these technologies.
 

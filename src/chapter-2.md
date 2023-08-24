@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 In order to understand the potential of artificial intelligence (AI) in healthcare, it is important to have a basic understanding of the background and fundamentals of AI. In this chapter, we will explore the history of AI, the different types of AI, and some of the machine learning techniques that underpin these technologies.
 

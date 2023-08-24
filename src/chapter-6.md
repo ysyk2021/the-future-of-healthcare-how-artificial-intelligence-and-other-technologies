@@ -1,5 +1,3 @@
-Chapter 6: Future of AI and Healthcare
-======================================
 
 As artificial intelligence (AI) continues to evolve, the future of healthcare is set to be transformed in new and exciting ways. From personalized medicine to improved patient outcomes, AI is poised to revolutionize the industry. In this chapter, we will explore some of the emerging trends and potential developments in the field of AI and healthcare, as well as predictions for the future of the industry.
 

@@ -1,5 +1,3 @@
-Changes in Healthcare Delivery and Management
-====================================================================================
 
 The integration of artificial intelligence (AI) in healthcare has the potential to revolutionize the way healthcare is delivered and managed. The following are some of the ways in which AI is already impacting healthcare:
 

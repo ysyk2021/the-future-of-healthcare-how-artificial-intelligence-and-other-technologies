@@ -1,5 +1,3 @@
-Trends in AI Adoption in Healthcare
-=================================================================================
 
 Artificial intelligence (AI) has enormous potential to revolutionize healthcare, from improving diagnostic accuracy to optimizing treatment decisions to streamlining administrative processes. In this chapter, we will explore the current state of AI adoption in healthcare and trends in its use.
 

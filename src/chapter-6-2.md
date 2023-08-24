@@ -1,5 +1,3 @@
-Predictions for the Future of Healthcare
-================================================================================
 
 The integration of artificial intelligence (AI) in healthcare has the potential to revolutionize medicine and improve patient outcomes in a number of ways. In this chapter, we will explore some predictions for the future of healthcare with AI.
 

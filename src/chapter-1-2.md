@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 In this book, we will explore the ways in which artificial intelligence (AI) and other technologies will revolutionize healthcare. The purpose of this book is to provide an overview of how healthcare is currently being transformed by technology and to explore the potential future impact of these transformations.
 

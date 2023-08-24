@@ -1,5 +1,3 @@
-Ethical Considerations
-========================================================================================
 
 The integration of artificial intelligence (AI) in healthcare has the potential to revolutionize medicine, but it also raises a number of important ethical considerations. In this chapter, we will explore some of the key challenges and risks associated with AI in healthcare, with a focus on ethical concerns.
 

@@ -1,5 +1,3 @@
-Examples of AI Applications Today
-===============================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare by improving diagnostic accuracy, enabling personalized treatments, and streamlining administrative processes. In this chapter, we will explore some of the current AI applications in healthcare.
 

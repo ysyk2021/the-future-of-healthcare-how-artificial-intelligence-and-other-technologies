@@ -12,3 +12,7 @@ Finally, the third section of the book examines the impact of these technologies
 Overall, this book aims to provide readers with a comprehensive understanding of the future of healthcare and the role that technology will play in the industry. By embracing these emerging technologies, healthcare professionals and organizations can improve patient outcomes, reduce costs, and create a more efficient and effective healthcare system.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

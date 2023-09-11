@@ -1,5 +1,4 @@
-Chapter 7: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the profound ethical considerations that arise as artificial intelligence (AI) and other cutting-edge technologies revolutionize healthcare. As we navigate the transformative potential of these technologies, it is imperative to address ethical challenges to ensure that they are harnessed for the betterment of healthcare without compromising patient rights, privacy, and well-being.
 

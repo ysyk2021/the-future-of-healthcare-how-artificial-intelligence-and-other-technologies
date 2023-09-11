@@ -1,5 +1,4 @@
-Chapter 7: Personalized Medicine and Care
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting world of personalized medicine and care, where artificial intelligence and advanced technologies are ushering in a new era of healthcare tailored to individual patients' unique needs and characteristics.
 

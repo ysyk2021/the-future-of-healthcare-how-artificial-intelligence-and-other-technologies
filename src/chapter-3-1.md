@@ -1,5 +1,4 @@
-Chapter 3: Examples of AI Applications Today
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several real-world examples of how artificial intelligence (AI) is currently transforming the healthcare industry. AI has the potential to revolutionize medicine in various ways, from improving diagnosis accuracy to enhancing patient care and streamlining administrative processes. These examples showcase the diverse range of AI applications in healthcare today.
 

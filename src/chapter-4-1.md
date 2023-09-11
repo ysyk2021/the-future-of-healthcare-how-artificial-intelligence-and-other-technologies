@@ -1,5 +1,4 @@
-Chapter 5: Diagnosis and Treatment Accuracy
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the remarkable advancements in diagnosis and treatment accuracy driven by artificial intelligence and other cutting-edge technologies, offering a glimpse into the transformative potential of these innovations in healthcare.
 

@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Potential Developments
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting emerging trends and potential developments in healthcare, driven by artificial intelligence and other cutting-edge technologies. These trends offer a glimpse into the future of medicine and the transformative possibilities that lie ahead.
 

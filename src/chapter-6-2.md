@@ -1,5 +1,4 @@
-Chapter 10: Predictions for the Future of Healthcare
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we peer into the crystal ball of healthcare, exploring some compelling predictions for the future that highlight how artificial intelligence and other cutting-edge technologies will revolutionize medicine.
 

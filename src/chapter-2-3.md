@@ -1,5 +1,4 @@
-Chapter 5: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the world of machine learning techniques and their pivotal role in revolutionizing healthcare. The integration of artificial intelligence (AI) and machine learning into the healthcare industry has ushered in a new era of personalized medicine, improved diagnostics, and more efficient patient care. This chapter will provide an overview of the various machine learning techniques used in healthcare and highlight their transformative potential.
 

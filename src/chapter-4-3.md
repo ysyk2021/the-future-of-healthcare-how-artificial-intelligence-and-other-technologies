@@ -1,5 +1,4 @@
-Chapter 6: Changes in Healthcare Delivery and Management
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative changes in healthcare delivery and management that are driven by artificial intelligence and other advanced technologies. These innovations are reshaping the way healthcare is administered, making it more efficient, accessible, and patient-centered.
 

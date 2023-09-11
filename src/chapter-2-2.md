@@ -1,5 +1,4 @@
-Chapter 2: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of artificial intelligence (AI) and their significance in the transformation of healthcare. AI has the potential to revolutionize medicine by enhancing diagnostics, treatment planning, and patient care. Understanding the different categories of AI is essential for grasping the breadth of its impact in the future of healthcare.
 

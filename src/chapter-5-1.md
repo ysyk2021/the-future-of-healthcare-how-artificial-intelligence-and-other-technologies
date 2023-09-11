@@ -1,5 +1,4 @@
-Chapter 8: Data Privacy and Security Concerns
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical issue of data privacy and security concerns in the context of healthcare's evolving landscape, driven by artificial intelligence and other advanced technologies. As healthcare becomes increasingly data-driven, protecting patient information and maintaining the integrity of healthcare systems are paramount considerations.
 
